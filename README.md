@@ -14,4 +14,4 @@
 
 7. Launch the 1.7.10 pack normally
 
-8. Connect to the server at Caden's IP
+8. Connect to the server at Cobi's IP
